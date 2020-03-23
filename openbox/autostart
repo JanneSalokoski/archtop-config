@@ -1,0 +1,12 @@
+#!/bin/dash
+#export PATH="${PATH}:$HOME/.scripts"
+#xbacklight -set 10
+xset +fp ~/.fonts/misc/
+xsettingsd &
+conky | lemonbar -g x28 \
+-f -addy-rissole-medium-r-normal-*-12-* -f -addy-waffle-medium-r-normal-*-10-* \
+-B "#141c21" -F "#93a1a1" &
+feh --bg-fill ~/.wallpaper.jpg & 
+~/.screenlayout/main.sh &
+xmodmap /home/janne/.xmodmap
+#picom --experimental-backends -b 

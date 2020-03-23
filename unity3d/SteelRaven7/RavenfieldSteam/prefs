@@ -1,0 +1,48 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="Screenmanager Is Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Resolution Height" type="int">1080</pref>
+	<pref name="Screenmanager Resolution Width" type="int">1920</pref>
+	<pref name="SeenIntro" type="int">1</pref>
+	<pref name="UnitySelectMonitor" type="int">0</pref>
+	<pref name="d_BotNames" type="int">0</pref>
+	<pref name="d_Difficulty" type="int">1</pref>
+	<pref name="d_DrawDistance" type="int">1</pref>
+	<pref name="d_Quality" type="int">3</pref>
+	<pref name="d_ResolutionX" type="int">1920</pref>
+	<pref name="d_ResolutionY" type="int">1080</pref>
+	<pref name="d_TerrainQuality" type="int">2</pref>
+	<pref name="d_VegetationDensity" type="int">3</pref>
+	<pref name="d_VegetationDrawDistance" type="int">2</pref>
+	<pref name="gear1" type="int">2166258</pref>
+	<pref name="gear2" type="int">2008996746</pref>
+	<pref name="gear3" type="int">-1</pref>
+	<pref name="primary" type="int">78007956</pref>
+	<pref name="s_Fov" type="float">85</pref>
+	<pref name="s_HelicopterSensitivity" type="float">1</pref>
+	<pref name="s_MouseSensitivity" type="float">0.446705</pref>
+	<pref name="s_MusicStingVolume" type="float">0.331441</pref>
+	<pref name="s_MusicVolume" type="float">0.329864</pref>
+	<pref name="s_PlaneSensitivity" type="float">1</pref>
+	<pref name="s_SfxVolume" type="float">0.331441</pref>
+	<pref name="s_SniperSensitivity" type="float">0.5</pref>
+	<pref name="secondary" type="int">-1874937454</pref>
+	<pref name="t_AllowJoystickBinds" type="int">1</pref>
+	<pref name="t_AutoLoadLastVehicleMod" type="int">1</pref>
+	<pref name="t_AutoReload" type="int">0</pref>
+	<pref name="t_Bloom" type="int">1</pref>
+	<pref name="t_BoxMen" type="int">0</pref>
+	<pref name="t_ClothPhysics" type="int">1</pref>
+	<pref name="t_ColorCorrection" type="int">1</pref>
+	<pref name="t_FullScreen" type="int">1</pref>
+	<pref name="t_Hitmarkers" type="int">1</pref>
+	<pref name="t_KillIndicator" type="int">1</pref>
+	<pref name="t_NeverendingBattles" type="int">1</pref>
+	<pref name="t_ToggleAim" type="int">0</pref>
+	<pref name="t_ToggleCrouch" type="int">0</pref>
+	<pref name="t_VSync" type="int">1</pref>
+	<pref name="t_WeatherEffects" type="int">1</pref>
+	<pref name="unity.cloud_userid" type="string">MmY4MWYxN2EzZTg4ZTRmYzdhYjM5NDM4NTRjZTIyMWM=</pref>
+	<pref name="unity.player_session_background_time" type="string">MTU4NDU2NjQ0NTI1NA==</pref>
+	<pref name="unity.player_session_elapsed_time" type="string">MzEzNzk1</pref>
+	<pref name="unity.player_sessionid" type="string">MjY5MjE4NzgyNTA2MDQ4MzcyOA==</pref>
+</unity_prefs>

@@ -1,0 +1,146 @@
+html,body{height:100%}
+.hidden{ display: none;}
+body {
+  margin: 0px;
+  padding: 0px;
+    background: #000;
+    color: #fff;
+}
+
+@-webkit-keyframes spin {
+  to {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+@keyframes spin {
+  to {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+.stroke-dotted {
+  opacity: 0;
+  stroke-dasharray: 4,5;
+  stroke-width: 1px;
+  -webkit-transform-origin: 50% 50%;
+      -ms-transform-origin: 50% 50%;
+          transform-origin: 50% 50%;
+  -webkit-animation: spin 4s infinite linear;
+          animation: spin 4s infinite linear;
+  -webkit-transition: opacity 1s ease,  stroke-width 1s ease;
+          transition: opacity 1s ease,  stroke-width 1s ease;
+}
+
+.stroke-solid {
+  stroke-dashoffset: 0;
+  stroke-dashArray: 300;
+  stroke-width: 4px;
+  -webkit-transition: stroke-dashoffset 1s ease,  opacity 1s ease;
+          transition: stroke-dashoffset 1s ease,  opacity 1s ease;
+}
+
+.icon {
+  -webkit-transform-origin: 50% 50%;
+      -ms-transform-origin: 50% 50%;
+          transform-origin: 50% 50%;
+  -webkit-transition: -webkit-transform 200ms ease-out;
+          transition: transform 200ms ease-out;
+}
+
+.animate-play .stroke-dotted {
+  stroke-width: 4px;
+  opacity: 1;
+}
+.animate-play .stroke-solid {
+  opacity: 0;
+  stroke-dashoffset: 300;
+}
+.animate-play .icon {
+  -webkit-transform: scale(1.05);
+      -ms-transform: scale(1.05);
+          transform: scale(1.05);
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  background-color: #1d1f20;
+  background: -webkit-radial-gradient(#1d1f20, #1d1f20);
+  background: radial-gradient(#1d1f20, #1d1f20);
+}
+
+#play {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translateY(-50%) translateX(-50%);
+      -ms-transform: translateY(-50%) translateX(-50%);
+          transform: translateY(-50%) translateX(-50%);
+}
+
+.indicator {
+    margin-top: 10%;
+    font-size: 100px;
+    text-align: center;
+}
+
+h1, h2, h3 {
+  margin: 0px 0px 10px 0px;
+}
+
+td {
+  padding: 2px 5px;
+}
+
+#fullscreen-area {
+  box-shadow: inset 0px 1px 10px rgba(0,0,0,1);
+  margin: 5px;
+  padding: 20px;
+  min-width: 400px;
+  min-height: 300px;
+}
+
+.size {
+  width: 60px;
+}
+
+.tab-body {
+  padding: 0px;
+  margin: 0 auto;
+  max-width: 1200px;
+  min-width: 800px;
+}
+
+.buttons {
+  text-align: center;
+  margin: 10px 0px;
+}
+
+.columns {
+  display: table;
+  width: 100%;
+  border-spacing: 10px;
+}
+
+.section {
+  border: 1px solid #aaaaaa;
+  padding: 10px;
+  display: table-cell;
+}
+
+.new-column {
+  width: 50%;
+}
+
+.edit-left {
+  width: 40%;
+}
+
+.edit-right {
+  width: 60%;
+}

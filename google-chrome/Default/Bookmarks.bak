@@ -1,0 +1,445 @@
+{
+   "checksum": "85bedc9276c41fcfbbd193644b3bb9f0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13076230351281543",
+            "id": "18",
+            "name": "Bookmarks",
+            "sync_transaction_version": "372",
+            "type": "url",
+            "url": "chrome://bookmarks/"
+         }, {
+            "date_added": "13115053557302851",
+            "id": "19",
+            "meta_info": {
+               "last_visited_desktop": "13199733793349500"
+            },
+            "name": "Yle Urheilu | yle.fi",
+            "sync_transaction_version": "371",
+            "type": "url",
+            "url": "http://yle.fi/urheilu"
+         }, {
+            "date_added": "13107520150450265",
+            "id": "20",
+            "name": "KeepVid DL",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "javascript:(function(){window.open('http://keepvid.com/?url='+encodeURIComponent(location.href)+'')})();"
+         }, {
+            "date_added": "13053285110383018",
+            "id": "21",
+            "meta_info": {
+               "last_visited": "13186262644976809",
+               "last_visited_desktop": "13141218218306592"
+            },
+            "name": "Bookmarks",
+            "sync_transaction_version": "341",
+            "type": "url",
+            "url": "http://mobiilikirkko.fi/"
+         }, {
+            "date_added": "13033057839767068",
+            "id": "22",
+            "meta_info": {
+               "last_visited": "13156635020274493",
+               "last_visited_desktop": "13220630794137793"
+            },
+            "name": "Uutiset - Ampparit.com - Se nopein uutistarjonta",
+            "sync_transaction_version": "381",
+            "type": "url",
+            "url": "http://www.ampparit.com/"
+         }, {
+            "date_added": "13037738326766749",
+            "id": "23",
+            "name": "Notepad",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "data:text/html, \u003Chtml contenteditable>\u003Chead>\u003Ctitle>Notepad\u003C/title>\u003C/head>\u003Cbody>\u003Cstyle>body{ font-family: 'Trebuchet MS'; margin: 50px;} h2{ color: #333; margin: 20px;}\u003C/style>\u003Ch2>Otsikko\u003C/h2>\u003C/body>\u003C/html>"
+         }, {
+            "date_added": "13038428406001231",
+            "id": "24",
+            "name": "Imgur Upvote Bomb",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "javascript:(function(){javascript:e=document.getElementsByClassName('arrow up');for(i=0;i\u003Ce.length;i++){e[i].click();}void(0);})();"
+         }, {
+            "date_added": "13039033292086800",
+            "id": "25",
+            "name": "Chrome Web Store - Apps",
+            "sync_transaction_version": "380",
+            "type": "url",
+            "url": "https://chrome.google.com/webstore/category/apps?hl=en-GB"
+         }, {
+            "date_added": "13041501968202000",
+            "id": "26",
+            "meta_info": {
+               "last_visited_desktop": "13157897116443593"
+            },
+            "name": "Spotify Web Player",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://play.spotify.com/?utm_source=web-player&utm_campaign=bookmark"
+         }, {
+            "date_added": "13041945294188755",
+            "id": "27",
+            "name": "TypingMaster Online",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://online3.typingmaster.com/login?id=y3cevfz7s"
+         }, {
+            "date_added": "13044910982843000",
+            "id": "28",
+            "name": "Files – OneDrive",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://onedrive.live.com/"
+         }, {
+            "date_added": "13045260401032016",
+            "id": "29",
+            "name": "Wiziwig.tv | IIHF World Championships 2014 schedules | watch live and free Icehockey streams",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.wiziwig.tv/competition.php?part=sports&competitionid=426&discipline=Icehockey"
+         }, {
+            "date_added": "13047223196201633",
+            "id": "30",
+            "name": "Watch Online Scrubs Season 3 Episode 10 - My Rule of Thumb - Watch Series",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://watchseries.lt/episode/scrubs_s3_e10.html"
+         }, {
+            "date_added": "13047893824641615",
+            "id": "31",
+            "name": "X-Wing",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://oos.moxiecode.com/js_webgl/xwing/"
+         }, {
+            "children": [ {
+               "date_added": "13050755283697512",
+               "id": "43",
+               "meta_info": {
+                  "last_visited": "13181140535097756",
+                  "last_visited_desktop": "13155979759874588"
+               },
+               "name": "Rainy Mood",
+               "sync_transaction_version": "260",
+               "type": "url",
+               "url": "http://www.rainymood.com/"
+            }, {
+               "date_added": "13050755311464512",
+               "id": "44",
+               "name": "EndlessVideo - HAARDVUUR / FIREPLACE / FEU DE FOYER",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://endlessvideo.com/watch?v=DIx3aMRDUL4"
+            }, {
+               "date_added": "13149002435436548",
+               "id": "45",
+               "meta_info": {
+                  "last_visited_desktop": "13149002435437193"
+               },
+               "name": "Oxygen 2 - Bohemia Interactive Community",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://community.bistudio.com/wiki/Oxygen_2"
+            } ],
+            "date_added": "13158583904398600",
+            "date_modified": "13181199873886482",
+            "id": "32",
+            "name": "Background noise",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13051708279901936",
+            "id": "33",
+            "meta_info": {
+               "last_visited": "13184922384986958",
+               "last_visited_desktop": "13196889108946785"
+            },
+            "name": "Raamattu.uskonkirjat.net",
+            "sync_transaction_version": "368",
+            "type": "url",
+            "url": "http://raamattu.uskonkirjat.net/servlet/biblesite.Bible"
+         }, {
+            "date_added": "13052426349696573",
+            "id": "34",
+            "meta_info": {
+               "last_visited_desktop": "13150282044833636"
+            },
+            "name": "ColorHexa",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.colorhexa.com/"
+         }, {
+            "date_added": "13058718970376465",
+            "id": "35",
+            "name": "https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=cc6d1e9e80&view=att&th=1482b34a7322b995&attid=0.1&disp=inline&safe=1&zw&saduie=AG9B_P8aJmJ7emTNfCgApFA79d0O&sadet=1414164224221&sads=rYaXeZ0uqz0UQrkMuS-Ocj0ltik",
+            "sync_transaction_version": "253",
+            "type": "url",
+            "url": "https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=cc6d1e9e80&view=att&th=1482b34a7322b995&attid=0.1&disp=inline&safe=1&zw&saduie=AG9B_P8aJmJ7emTNfCgApFA79d0O&sadet=1414164224221&sads=rYaXeZ0uqz0UQrkMuS-Ocj0ltik"
+         }, {
+            "date_added": "13062172016717100",
+            "id": "36",
+            "name": "ADSL Firewall Router",
+            "sync_transaction_version": "374",
+            "type": "url",
+            "url": "http://10.10.10.200/index.asp"
+         }, {
+            "date_added": "13065539104251884",
+            "id": "37",
+            "name": "super mario sunshine .iso - Google Search",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.google.fi/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=super%20mario%20sunshine%20.iso"
+         }, {
+            "date_added": "13089726046727289",
+            "id": "38",
+            "name": "Tilaa | e-Koulu.com",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.e-koulu.com/tilaa"
+         }, {
+            "date_added": "13091395166212576",
+            "id": "39",
+            "name": "Kde 0.8.11 Won't pass loading animation (this with 5 dots)",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://forum.manjaro.org/index.php?topic=19042.0"
+         }, {
+            "date_added": "13099328019522992",
+            "id": "40",
+            "meta_info": {
+               "last_visited": "13141731527451807",
+               "last_visited_desktop": "13134062593088184"
+            },
+            "name": "Teologia, teologian kandidaatti ja teologian maisteri (3 v + 2 v) | Helsingin yliopisto",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.helsinki.fi/fi/teologia-teologian-kandidaatti-ja-teologian-maisteri-3-v-2-v/1.2.246.562.20.87735044536"
+         }, {
+            "date_added": "13117353151054697",
+            "id": "41",
+            "name": "color",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.w3schools.com/html/html_form_input_types.asp"
+         }, {
+            "date_added": "13132957685585876",
+            "id": "42",
+            "meta_info": {
+               "last_visited": "13148973047262064",
+               "last_visited_desktop": "13155889874358908"
+            },
+            "name": "VBS3 Developer Reference - Oxy_Oxygen_Manual",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://manuals.bisimulations.com/vbs3/3-6/devref/#Oxygen_Manual/Oxy_Oxygen_Manual.htm%3FTocPath%3D5%2520Oxygen%2520Manual%7C_____0"
+         }, {
+            "date_added": "13200052419583516",
+            "id": "53",
+            "name": "YouTube",
+            "sync_transaction_version": "373",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13200052419586246",
+            "id": "52",
+            "meta_info": {
+               "last_visited_desktop": "13220546297825721"
+            },
+            "name": "Maps",
+            "sync_transaction_version": "379",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13200052419588222",
+            "id": "54",
+            "name": "News",
+            "sync_transaction_version": "373",
+            "type": "url",
+            "url": "https://news.google.com/"
+         }, {
+            "date_added": "13200052422098576",
+            "id": "51",
+            "name": "Translate",
+            "sync_transaction_version": "374",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13200052423030991",
+            "id": "50",
+            "name": "Web Store",
+            "sync_transaction_version": "373",
+            "type": "url",
+            "url": "https://chrome.google.com/webstore"
+         }, {
+            "date_added": "13200052427827776",
+            "id": "55",
+            "name": "Gmail",
+            "sync_transaction_version": "373",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13220366632942547",
+            "id": "57",
+            "name": "Regex Tutorial - Unicode Characters and Properties",
+            "sync_transaction_version": "376",
+            "type": "url",
+            "url": "https://www.regular-expressions.info/unicode.html"
+         } ],
+         "date_added": "13158583300903612",
+         "date_modified": "13220366632942547",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13158583300903615",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "381",
+      "synced": {
+         "children": [ {
+            "date_added": "13082393981676400",
+            "id": "5",
+            "name": "[TOOL] DirectoryBind - move data to external… | Samsung Galaxy S II I9100 | XDA Forums",
+            "sync_transaction_version": "375",
+            "type": "url",
+            "url": "http://forum.xda-developers.com/galaxy-s2/themes-apps/tool-directorybind-data-to-externalsd-t1410262"
+         }, {
+            "date_added": "13072939597543444",
+            "id": "6",
+            "name": "go - Google Search",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.google.fi/search?q=go&oq=go&aqs=chrome..69i60l3j69i57j69i60l2.609j0j4&bmbp=0&sourceid=chrome-mobile&espv=2&ie=UTF-8"
+         }, {
+            "date_added": "13053188554783100",
+            "id": "7",
+            "name": "Bookmarks",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://forum.xda-developers.com/showthread.php?t=1243792"
+         }, {
+            "date_added": "13044531495491137",
+            "id": "8",
+            "name": "Wiziwig.tv | IIHF World Championships 2014 | Watch live and free: Finland vs Belarus",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.wiziwig.tv/broadcast.php?matchid=260991&part=sports"
+         }, {
+            "date_added": "13037170188161853",
+            "id": "9",
+            "meta_info": {
+               "last_visited": "13184811584407081",
+               "last_visited_desktop": "13153905050903942"
+            },
+            "name": "10 vrk sää Kouvola - Foreca.fi",
+            "sync_transaction_version": "340",
+            "type": "url",
+            "url": "http://www.foreca.fi/Finland/kouvola/tenday"
+         }, {
+            "date_added": "13034292706125552",
+            "id": "10",
+            "meta_info": {
+               "last_visited": "13188431630788197",
+               "last_visited_desktop": "13142782702370499"
+            },
+            "name": "Wilma",
+            "sync_transaction_version": "351",
+            "type": "url",
+            "url": "https://wilma.edukouvola.fi/"
+         }, {
+            "date_added": "13017787714251617",
+            "id": "11",
+            "name": "mniip.com/qp/f00000169",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://mniip.com/qp/f00000169"
+         }, {
+            "date_added": "13108382034597458",
+            "id": "12",
+            "name": "...lisää talviliikuntapäivään ilmoittaut… - Wilma",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://wilma.edukouvola.fi/messages/796027"
+         }, {
+            "date_added": "13117621064947459",
+            "id": "13",
+            "name": "Omistukset | Oma salkku | Kauppalehti.fi",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.kauppalehti.fi/5/i/porssi/omasalkku/ShowPortfolio.do?portfolioId=7643081"
+         }, {
+            "date_added": "13121128772448442",
+            "id": "14",
+            "meta_info": {
+               "last_visited": "13180592607419780",
+               "last_visited_desktop": "13153555454391321"
+            },
+            "name": "Library Genesis",
+            "sync_transaction_version": "260",
+            "type": "url",
+            "url": "http://gen.lib.rus.ec/"
+         }, {
+            "date_added": "13121869634210823",
+            "id": "15",
+            "name": "Veera & Otto",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://mariajuntunen.kuvat.fi/kuvat/Veera+&+Otto/"
+         }, {
+            "date_added": "13135250731909314",
+            "id": "16",
+            "meta_info": {
+               "last_visited_desktop": "13135250731909647"
+            },
+            "name": "but i",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://en.wikiquote.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King"
+         }, {
+            "date_added": "13140277907940597",
+            "id": "17",
+            "meta_info": {
+               "last_visited": "13140277907951415"
+            },
+            "name": "Tokmannin synttäreillä huipputarjouksia! Osallistu synttäriarvontaan ja voita auto! - Tokmanni kampanjat",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://synttarit.tokmanni.fi/?utm_source=iltalehti&utm_campaign=syntymapaiva_vk21_2017&utm_medium=banner&utm_content=arvonta"
+         }, {
+            "date_added": "13180309734816306",
+            "id": "47",
+            "meta_info": {
+               "last_visited": "13182028181596530"
+            },
+            "name": "Henkilöasiakkaat - kela.fi",
+            "sync_transaction_version": "261",
+            "type": "url",
+            "url": "https://www.kela.fi/"
+         }, {
+            "date_added": "13180309735412922",
+            "id": "48",
+            "meta_info": {
+               "last_visited": "13182875531431761"
+            },
+            "name": "Kurssi: TUK 2018-, HOPS",
+            "sync_transaction_version": "321",
+            "type": "url",
+            "url": "https://moodle.helsinki.fi/course/view.php?id=29600"
+         } ],
+         "date_added": "13158583300903617",
+         "date_modified": "13218552251428940",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

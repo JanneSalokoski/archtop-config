@@ -1,0 +1,670 @@
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/janne/.config/discordcanary/0.0.44/modules
+[Modules] Module installed file path: /home/janne/.config/discordcanary/0.0.44/modules/installed.json
+[Modules] Module download path: /home/janne/.config/discordcanary/0.0.44/modules/pending
+[Modules] Bootstrapping...
+[Modules] Installing discord_desktop_core@1 from /opt/discord-canary/resources/bootstrap/discord_desktop_core.zip
+[Modules] Installing discord_erlpack@1 from /opt/discord-canary/resources/bootstrap/discord_erlpack.zip
+[Modules] Installing discord_game_utils@1 from /opt/discord-canary/resources/bootstrap/discord_game_utils.zip
+[Modules] Installing discord_rpc@1 from /opt/discord-canary/resources/bootstrap/discord_rpc.zip
+[Modules] Installing discord_utils@1 from /opt/discord-canary/resources/bootstrap/discord_utils.zip
+[Modules] Installing discord_voice@1 from /opt/discord-canary/resources/bootstrap/discord_voice.zip
+[Modules] Finished module installations. [success: 6] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_desktop_core@2 [installed: 1]
+[Modules] Module update available: discord_erlpack@2 [installed: 1]
+[Modules] Module update available: discord_game_utils@2 [installed: 1]
+[Modules] Module update available: discord_rpc@2 [installed: 1]
+[Modules] Module update available: discord_utils@2 [installed: 1]
+[Modules] Module update available: discord_voice@2 [installed: 1]
+[Modules] Fetching discord_desktop_core@2 from https://discordapp.com/api/modules/canary/discord_desktop_core/2
+[Modules] Streaming discord_desktop_core@2 [1798558 bytes] to /home/janne/.config/discordcanary/0.0.44/modules/pending/discord_desktop_core-2.zip
+[Modules] Fetching discord_erlpack@2 from https://discordapp.com/api/modules/canary/discord_erlpack/2
+[Modules] Streaming discord_erlpack@2 [79596 bytes] to /home/janne/.config/discordcanary/0.0.44/modules/pending/discord_erlpack-2.zip
+[Modules] Fetching discord_game_utils@2 from https://discordapp.com/api/modules/canary/discord_game_utils/2
+[Modules] Streaming discord_game_utils@2 [868735 bytes] to /home/janne/.config/discordcanary/0.0.44/modules/pending/discord_game_utils-2.zip
+[Modules] Fetching discord_rpc@2 from https://discordapp.com/api/modules/canary/discord_rpc/2
+[Modules] Streaming discord_rpc@2 [466586 bytes] to /home/janne/.config/discordcanary/0.0.44/modules/pending/discord_rpc-2.zip
+[Modules] Fetching discord_utils@2 from https://discordapp.com/api/modules/canary/discord_utils/2
+[Modules] Streaming discord_utils@2 [994013 bytes] to /home/janne/.config/discordcanary/0.0.44/modules/pending/discord_utils-2.zip
+[Modules] Fetching discord_voice@2 from https://discordapp.com/api/modules/canary/discord_voice/2
+[Modules] Streaming discord_voice@2 [7974946 bytes] to /home/janne/.config/discordcanary/0.0.44/modules/pending/discord_voice-2.zip
+[Modules] Finished module downloads. [success: 6] [failure: 0]
+[Modules] Relaunching to install module updates...
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/janne/.config/discordcanary/0.0.44/modules
+[Modules] Module installed file path: /home/janne/.config/discordcanary/0.0.44/modules/installed.json
+[Modules] Module download path: /home/janne/.config/discordcanary/0.0.44/modules/pending
+[Modules] Installing updates...
+[Modules] Installing discord_desktop_core@2 from /home/janne/.config/discordcanary/0.0.44/modules/pending/discord_desktop_core-2.zip
+[Modules] Installing discord_erlpack@2 from /home/janne/.config/discordcanary/0.0.44/modules/pending/discord_erlpack-2.zip
+[Modules] Installing discord_game_utils@2 from /home/janne/.config/discordcanary/0.0.44/modules/pending/discord_game_utils-2.zip
+[Modules] Installing discord_rpc@2 from /home/janne/.config/discordcanary/0.0.44/modules/pending/discord_rpc-2.zip
+[Modules] Installing discord_utils@2 from /home/janne/.config/discordcanary/0.0.44/modules/pending/discord_utils-2.zip
+[Modules] Installing discord_voice@2 from /home/janne/.config/discordcanary/0.0.44/modules/pending/discord_voice-2.zip
+[Modules] Finished module installations. [success: 6] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host update failed: Error: socket hang up
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/janne/.config/discordcanary/0.0.44/modules
+[Modules] Module installed file path: /home/janne/.config/discordcanary/0.0.44/modules/installed.json
+[Modules] Module download path: /home/janne/.config/discordcanary/0.0.44/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host update failed: Error: getaddrinfo ENOTFOUND discordapp.com discordapp.com:443
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/janne/.config/discordcanary/0.0.44/modules
+[Modules] Module installed file path: /home/janne/.config/discordcanary/0.0.44/modules/installed.json
+[Modules] Module download path: /home/janne/.config/discordcanary/0.0.44/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host update is available. Manual update required!
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/janne/.config/discordcanary/0.0.45/modules
+[Modules] Module installed file path: /home/janne/.config/discordcanary/0.0.45/modules/installed.json
+[Modules] Module download path: /home/janne/.config/discordcanary/0.0.45/modules/pending
+[Modules] Bootstrapping...
+[Modules] Installing discord_desktop_core@1 from /opt/discord-canary/resources/bootstrap/discord_desktop_core.zip
+[Modules] Installing discord_erlpack@1 from /opt/discord-canary/resources/bootstrap/discord_erlpack.zip
+[Modules] Installing discord_game_utils@1 from /opt/discord-canary/resources/bootstrap/discord_game_utils.zip
+[Modules] Installing discord_rpc@1 from /opt/discord-canary/resources/bootstrap/discord_rpc.zip
+[Modules] Installing discord_utils@1 from /opt/discord-canary/resources/bootstrap/discord_utils.zip
+[Modules] Installing discord_voice@1 from /opt/discord-canary/resources/bootstrap/discord_voice.zip
+[Modules] Finished module installations. [success: 6] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_desktop_core@17 [installed: 1]
+[Modules] Module update available: discord_erlpack@17 [installed: 1]
+[Modules] Module update available: discord_game_utils@17 [installed: 1]
+[Modules] Module update available: discord_rpc@17 [installed: 1]
+[Modules] Module update available: discord_utils@17 [installed: 1]
+[Modules] Module update available: discord_voice@17 [installed: 1]
+[Modules] Fetching discord_desktop_core@17 from https://discordapp.com/api/modules/canary/discord_desktop_core/17
+[Modules] Streaming discord_desktop_core@17 [1798664 bytes] to /home/janne/.config/discordcanary/0.0.45/modules/pending/discord_desktop_core-17.zip
+[Modules] Fetching discord_erlpack@17 from https://discordapp.com/api/modules/canary/discord_erlpack/17
+[Modules] Streaming discord_erlpack@17 [79596 bytes] to /home/janne/.config/discordcanary/0.0.45/modules/pending/discord_erlpack-17.zip
+[Modules] Fetching discord_game_utils@17 from https://discordapp.com/api/modules/canary/discord_game_utils/17
+[Modules] Streaming discord_game_utils@17 [868848 bytes] to /home/janne/.config/discordcanary/0.0.45/modules/pending/discord_game_utils-17.zip
+[Modules] Fetching discord_rpc@17 from https://discordapp.com/api/modules/canary/discord_rpc/17
+[Modules] Streaming discord_rpc@17 [466586 bytes] to /home/janne/.config/discordcanary/0.0.45/modules/pending/discord_rpc-17.zip
+[Modules] Fetching discord_utils@17 from https://discordapp.com/api/modules/canary/discord_utils/17
+[Modules] Streaming discord_utils@17 [997452 bytes] to /home/janne/.config/discordcanary/0.0.45/modules/pending/discord_utils-17.zip
+[Modules] Fetching discord_voice@17 from https://discordapp.com/api/modules/canary/discord_voice/17
+[Modules] Streaming discord_voice@17 [7893507 bytes] to /home/janne/.config/discordcanary/0.0.45/modules/pending/discord_voice-17.zip
+[Modules] Finished module downloads. [success: 6] [failure: 0]
+[Modules] Relaunching to install module updates...
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/janne/.config/discordcanary/0.0.45/modules
+[Modules] Module installed file path: /home/janne/.config/discordcanary/0.0.45/modules/installed.json
+[Modules] Module download path: /home/janne/.config/discordcanary/0.0.45/modules/pending
+[Modules] Installing updates...
+[Modules] Installing discord_desktop_core@17 from /home/janne/.config/discordcanary/0.0.45/modules/pending/discord_desktop_core-17.zip
+[Modules] Installing discord_erlpack@17 from /home/janne/.config/discordcanary/0.0.45/modules/pending/discord_erlpack-17.zip
+[Modules] Installing discord_game_utils@17 from /home/janne/.config/discordcanary/0.0.45/modules/pending/discord_game_utils-17.zip
+[Modules] Installing discord_rpc@17 from /home/janne/.config/discordcanary/0.0.45/modules/pending/discord_rpc-17.zip
+[Modules] Installing discord_utils@17 from /home/janne/.config/discordcanary/0.0.45/modules/pending/discord_utils-17.zip
+[Modules] Installing discord_voice@17 from /home/janne/.config/discordcanary/0.0.45/modules/pending/discord_voice-17.zip
+[Modules] Finished module installations. [success: 6] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_desktop_core@18 [installed: 17]
+[Modules] Module update available: discord_erlpack@18 [installed: 17]
+[Modules] Module update available: discord_game_utils@18 [installed: 17]
+[Modules] Module update available: discord_rpc@18 [installed: 17]
+[Modules] Module update available: discord_utils@18 [installed: 17]
+[Modules] Module update available: discord_voice@18 [installed: 17]
+[Modules] Fetching discord_desktop_core@18 from https://discordapp.com/api/modules/canary/discord_desktop_core/18
+[Modules] Streaming discord_desktop_core@18 [1798664 bytes] to /home/janne/.config/discordcanary/0.0.45/modules/pending/discord_desktop_core-18.zip
+[Modules] Fetching discord_erlpack@18 from https://discordapp.com/api/modules/canary/discord_erlpack/18
+[Modules] Streaming discord_erlpack@18 [79596 bytes] to /home/janne/.config/discordcanary/0.0.45/modules/pending/discord_erlpack-18.zip
+[Modules] Fetching discord_game_utils@18 from https://discordapp.com/api/modules/canary/discord_game_utils/18
+[Modules] Streaming discord_game_utils@18 [868848 bytes] to /home/janne/.config/discordcanary/0.0.45/modules/pending/discord_game_utils-18.zip
+[Modules] Fetching discord_rpc@18 from https://discordapp.com/api/modules/canary/discord_rpc/18
+[Modules] Streaming discord_rpc@18 [466586 bytes] to /home/janne/.config/discordcanary/0.0.45/modules/pending/discord_rpc-18.zip
+[Modules] Fetching discord_utils@18 from https://discordapp.com/api/modules/canary/discord_utils/18
+[Modules] Streaming discord_utils@18 [997452 bytes] to /home/janne/.config/discordcanary/0.0.45/modules/pending/discord_utils-18.zip
+[Modules] Fetching discord_voice@18 from https://discordapp.com/api/modules/canary/discord_voice/18
+[Modules] Streaming discord_voice@18 [7893507 bytes] to /home/janne/.config/discordcanary/0.0.45/modules/pending/discord_voice-18.zip
+[Modules] Finished module downloads. [success: 6] [failure: 0]

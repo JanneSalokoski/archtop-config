@@ -1,0 +1,22 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "background.js" ]
+      }
+   },
+   "externally_connectable": {
+      "ids": [ "*" ]
+   },
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgQYMaIhyaIS8QyMdMTUddvtt6hPGEI3bm6zU9Ph72U3u1mb44E+ZSWlWTR0DGILcuP0fxe4zyqJIoeXXr7CQWPL9VoMh5gZFHjqGNKdaaqx2HFfZXusmgQCcFaCyLatVrt9InE0X3x/uYykY5PDt1PpKyDV+9PClAFVeQYv460V2cd6bb22eKNUf0o/SZ+AOxHjuahitd1mrQb1k5YAHDvryRaclP7YU8QUhjDj4G7j334v+55vVdjd8l203cwjqVJeodWJxDpwF4mSJ1k0vHnvlNJSAwGX8euQNVobYZ+sOwWmJ7RKAGZ+kphtj7pBCOJiQWsaoEdDy7pBLadcIeQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "35",
+   "name": "WebPage video player",
+   "permissions": [ "webview", "fullscreen", "alwaysOnTopWindows", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2"
+}

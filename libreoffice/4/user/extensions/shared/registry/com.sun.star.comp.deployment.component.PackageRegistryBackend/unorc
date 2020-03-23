@@ -1,0 +1,2 @@
+ORIGIN=$SHARED_EXTENSIONS_USER/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+UNO_SERVICES=?$UNO_SHARED_PACKAGES_CACHE/uno_packages/lu1513084j7wqwe.tmp_/voikko.oxt/voikko.components

@@ -1,0 +1,32 @@
+{
+  "discord_desktop_core": {
+    "installedVersion": 17,
+    "updateVersion": 18,
+    "updateZipfile": "/home/janne/.config/discordcanary/0.0.45/modules/pending/discord_desktop_core-18.zip"
+  },
+  "discord_erlpack": {
+    "installedVersion": 17,
+    "updateVersion": 18,
+    "updateZipfile": "/home/janne/.config/discordcanary/0.0.45/modules/pending/discord_erlpack-18.zip"
+  },
+  "discord_game_utils": {
+    "installedVersion": 17,
+    "updateVersion": 18,
+    "updateZipfile": "/home/janne/.config/discordcanary/0.0.45/modules/pending/discord_game_utils-18.zip"
+  },
+  "discord_rpc": {
+    "installedVersion": 17,
+    "updateVersion": 18,
+    "updateZipfile": "/home/janne/.config/discordcanary/0.0.45/modules/pending/discord_rpc-18.zip"
+  },
+  "discord_utils": {
+    "installedVersion": 17,
+    "updateVersion": 18,
+    "updateZipfile": "/home/janne/.config/discordcanary/0.0.45/modules/pending/discord_utils-18.zip"
+  },
+  "discord_voice": {
+    "installedVersion": 17,
+    "updateVersion": 18,
+    "updateZipfile": "/home/janne/.config/discordcanary/0.0.45/modules/pending/discord_voice-18.zip"
+  }
+}

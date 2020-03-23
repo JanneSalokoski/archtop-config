@@ -1,0 +1,4 @@
+2020/03/16-12:19:02.173 384952 Reusing MANIFEST /home/janne/.config/google-chrome/Default/Service Worker/Database/MANIFEST-000001
+2020/03/16-12:19:02.173 384952 Recovering log #3
+2020/03/16-12:19:02.208 384952 (ignoring error) /home/janne/.config/google-chrome/Default/Service Worker/Database/000003.log: dropping 310 bytes; Corruption: missing start of fragmented record(2)
+2020/03/16-12:19:02.210 384952 Reusing old log /home/janne/.config/google-chrome/Default/Service Worker/Database/000003.log 

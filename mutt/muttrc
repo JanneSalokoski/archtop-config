@@ -1,0 +1,9 @@
+set editor=nvim
+set my_name="Janne Salokoski"
+
+# KyO
+set imap_user="toiminnanohjaaja@kymenlaaksonosakunta.fi"
+set imap_pass="Silakka98%1"
+set folder=imaps://mail.kymenlaaksonosakunta.fi:993/
+set spoolfile=+INBOX
+set imap_check_subscribed

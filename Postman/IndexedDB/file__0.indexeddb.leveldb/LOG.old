@@ -1,0 +1,17 @@
+2018/04/20-14:13:08.842 8440 Reusing MANIFEST /home/janne/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2018/04/20-14:13:08.842 8440 Recovering log #17
+2018/04/20-14:13:08.845 8440 Reusing old log /home/janne/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/000017.log 
+2018/04/20-14:13:30.607 8440 Current memtable full; waiting...
+2018/04/20-14:13:30.608 8622 Level-0 table #22: started
+2018/04/20-14:13:30.611 8622 Level-0 table #22: 334423 bytes OK
+2018/04/20-14:13:30.611 8622 Delete type=0 #17
+2018/04/20-14:13:30.612 8622 Level-0 table #24: started
+2018/04/20-14:13:30.612 8622 Level-0 table #24: 0 bytes OK
+2018/04/20-14:13:30.612 8622 Delete type=0 #21
+2018/04/20-14:13:30.612 8622 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2018/04/20-14:14:07.951 8622 Compacting 1@1 + 1@2 files
+2018/04/20-14:14:07.954 8622 Generated table #25@1: 1113 keys, 209114 bytes
+2018/04/20-14:14:07.954 8622 Compacted 1@1 + 1@2 files => 209114 bytes
+2018/04/20-14:14:07.954 8622 compacted to: files[ 0 0 1 0 0 0 0 ]
+2018/04/20-14:14:07.954 8622 Delete type=2 #22
+2018/04/20-14:14:07.955 8622 Delete type=2 #19

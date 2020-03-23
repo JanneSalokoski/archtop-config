@@ -1,0 +1,11 @@
+
+[audgui]
+filebrowser_win=807,377,672,480
+
+[gtkui]
+column_widths=10,275,175,10,175,175,10,100,39,10,275,275,275,10,275
+player_x=759
+player_y=377
+
+[gtkui-layout]
+item_count=0

@@ -1,0 +1,6 @@
+configuration {
+    modi: "window,drun,ssh,combi";
+    theme: "solarized";
+    combi-modi: "window,drun";
+}
+@import "/usr/share/rofi/themes/Arc.rasi"

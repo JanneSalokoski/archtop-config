@@ -1,0 +1,9 @@
+2020/01/28-16:29:35.511 726243 Reusing MANIFEST /home/janne/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/01/28-16:29:35.512 726243 Recovering log #2962
+2020/01/28-16:29:35.512 726243 Reusing old log /home/janne/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/002962.log 
+2020/01/28-16:29:36.882 472366 Level-0 table #2966: started
+2020/01/28-16:29:36.895 472366 Level-0 table #2966: 757758 bytes OK
+2020/01/28-16:29:36.896 472366 Delete type=0 #2962
+2020/01/28-16:29:37.056 472366 Level-0 table #2968: started
+2020/01/28-16:29:37.070 472366 Level-0 table #2968: 783343 bytes OK
+2020/01/28-16:29:37.071 472366 Delete type=0 #2965

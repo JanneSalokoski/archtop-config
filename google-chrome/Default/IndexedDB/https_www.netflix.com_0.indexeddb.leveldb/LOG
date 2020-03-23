@@ -1,0 +1,24 @@
+2019/03/12-14:30:37.769 2909 Reusing MANIFEST /home/janne/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/03/12-14:30:37.769 2909 Recovering log #334
+2019/03/12-14:30:37.780 2909 Reusing old log /home/janne/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000334.log 
+2019/03/12-15:30:30.726 1969 Level-0 table #338: started
+2019/03/12-15:30:30.744 1969 Level-0 table #338: 2469749 bytes OK
+2019/03/12-15:30:30.745 1969 Delete type=0 #334
+2019/03/19-22:44:50.833 1969 Level-0 table #340: started
+2019/03/19-22:44:50.856 1969 Level-0 table #340: 2404981 bytes OK
+2019/03/19-22:44:50.858 1969 Delete type=0 #337
+2019/03/19-22:44:50.858 1969 Compacting 4@0 + 1@1 files
+2019/03/19-22:44:50.882 1969 Generated table #341@0: 15 keys, 14302 bytes
+2019/03/19-22:44:50.882 1969 Compacted 4@0 + 1@1 files => 14302 bytes
+2019/03/19-22:44:50.882 1969 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/03/19-22:44:50.882 1969 Delete type=2 #338
+2019/03/19-22:44:50.883 1969 Delete type=2 #335
+2019/03/19-22:44:50.883 1969 Delete type=2 #332
+2019/03/19-22:44:50.883 1969 Delete type=2 #330
+2019/03/19-22:44:50.883 1969 Delete type=2 #340
+2019/03/23-14:07:53.181 1969 Level-0 table #343: started
+2019/03/23-14:07:53.204 1969 Level-0 table #343: 2544627 bytes OK
+2019/03/23-14:07:53.206 1969 Delete type=0 #339
+2019/03/27-12:02:23.415 1969 Level-0 table #345: started
+2019/03/27-12:02:23.442 1969 Level-0 table #345: 2540043 bytes OK
+2019/03/27-12:02:23.443 1969 Delete type=0 #342

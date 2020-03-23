@@ -1,0 +1,9 @@
+Base: /home/janne/.local/share/fonts/Cozette-modified.sfd
+Encoding: UnicodeFull
+UnicodeInterp: none
+LayerCount: 2
+Layer: 0 0 "Back"
+Layer: 1 0 "Fore"
+BeginChars: 1624
+EndChars
+EndSplineFont
